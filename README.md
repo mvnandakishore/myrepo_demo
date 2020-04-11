@@ -6,5 +6,5 @@ This is a simple README file
 
 
 * this is new update from updatebranch
-* added one more please check
+* newly modfied this line 
 * Njoy new merge request
