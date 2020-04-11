@@ -7,6 +7,12 @@ This is a simple README file
 
 * this is new update from updatebranch
 * newly modfied this line 
+
 * Njoy new merge request   ******************
 
 THis is new line
+=======
+* Njoy new merge request
+
+Updated line
+
